@@ -8,4 +8,4 @@
 
 
 
-<img src=https://github.com/MScodi/MusicPlayer_python/blob/master/ss.png>
+<img src=https://github.com/MScodi/MusicPlayer_python/blob/master/SCREENSHOT.png>
